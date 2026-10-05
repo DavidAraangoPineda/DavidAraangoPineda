@@ -42,11 +42,26 @@ Estudiante de **7.º semestre de Ingeniería de Sistemas** en la **Universidad d
 
 * * *
 
-## 🛠️ Tecnologías que uso
+<h2 align="center">🛠️ Tecnologías que uso</h2>
 
-| Backend y datos | Frontend | Cloud, DevOps y herramientas |
-|---|---|---|
-| [![](https://skillicons.dev/icons?i=java,spring,python,c,postgres,mysql,prisma)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=docker,githubactions,github,linux,git,arduino)](https://skillicons.dev) |
+<table align="center">
+  <tr>
+    <th align="center">Backend y datos</th>
+    <th align="center">Frontend y estilos</th>
+    <th align="center">Cloud, DevOps y herramientas</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,spring,python,c,postgres,mysql,prisma&theme=dark" alt="Backend y datos" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&theme=dark" alt="Frontend y estilos" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,github,git,linux,arduino&theme=dark" alt="Cloud, DevOps y herramientas" />
+    </td>
+  </tr>
+</table>
 
 * * *
 
