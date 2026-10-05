@@ -9,19 +9,6 @@ Estudiante de **7.º semestre de Ingeniería de Sistemas** en la **Universidad d
 
 * * *
 
-## 🔥 Continuidad y actividad
-
-[![Total Stars](https://img.shields.io/github/stars/DavidAraangoPineda?style=for-the-badge&color=FFD700&logo=github&logoColor=white)](https://github.com/DavidAraangoPineda?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/DavidAraangoPineda?style=for-the-badge&color=0A66C2&logo=github&logoColor=white)](https://github.com/DavidAraangoPineda?tab=followers)
-[![Repos](https://img.shields.io/badge/Repos_p%C3%BAblicos-7-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidAraangoPineda?tab=repositories)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DavidAraangoPineda&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=DavidAraangoPineda&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/DavidAraangoPineda)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAraangoPineda&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/DavidAraangoPineda)
-
-* * *
-
 ## 🚧 Proyectos activos
 
 | Proyecto | Stack | Estado | Propósito |
@@ -38,7 +25,7 @@ Estudiante de **7.º semestre de Ingeniería de Sistemas** en la **Universidad d
 | [lab2p2026](https://github.com/DavidAraangoPineda/lab2p2026) | `Java` `Spring Boot` `GitHub Actions` `SonarCloud` `Docker` | 🟢 Completo | Pipeline CI/CD: build, calidad con SonarCloud, imagen Docker y despliegue en Render |
 | [Lab_mem_virtual](https://github.com/DavidAraangoPineda/Lab_mem_virtual) | `C` `Make` | 🟢 Completo | Simulador de memoria virtual con tabla de páginas de 2 niveles y reemplazo FIFO, LRU y CLOCK |
 | [ProyectoModelos2](https://github.com/DavidAraangoPineda/ProyectoModelos2) | `Python` `scikit-learn` `Jupyter` | 🟢 Completo | Comparación de 7 modelos de ML para aprobación de créditos (CV estratificada, PCA, UMAP) |
-| [Optimizacion](https://github.com/DavidAraangoPineda/Optimizacion) | `JavaScript` `HTML` `CSS` | 🟢 Completo | Calculadora web interactiva de 7 métodos numéricos, sin backend |
+| [Optimizacion](https://github.com/DavidAraangoPineda/Optimizacion) · [🔗 Ver calculadora](https://optimizacion-nx6c.onrender.com) | `JavaScript` `HTML` `CSS` | 🟢 Completo | Calculadora web interactiva de 7 métodos numéricos, sin backend |
 
 * * *
 
