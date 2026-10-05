@@ -1,11 +1,26 @@
-# David Arango Pineda — Ingeniería de Sistemas | Backend & Automatización | Educación Virtual 🚀
+<div align="center">
 
-> Construyendo software que se entiende, se prueba y se despliega. Código limpio, documentación clara y entregas que funcionan.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0A66C2,100:2ea44f&section=header&text=David%20Arango%20Pineda&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Ingenier%C3%ADa%20de%20Sistemas%20%7C%20Backend%20%26%20Automatizaci%C3%B3n%20%7C%20Educaci%C3%B3n%20Virtual&descSize=15&descAlignY=62" alt="David Arango Pineda" />
 
-Estudiante de **7.º semestre de Ingeniería de Sistemas** en la **Universidad de Antioquia** (Medellín, Colombia 🇨🇴). Me muevo entre el backend (Java/Spring Boot), la automatización (Python, bots) y las aplicaciones web (Next.js), y me interesan las tecnologías aplicadas a la educación. Inglés B2.
+**Construyendo software que se entiende, se prueba y se despliega.**
 
-[![Gmail](https://img.shields.io/badge/Email-david.arango6@udea.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.arango6@udea.edu.co)
+[![Email](https://img.shields.io/badge/Email-david.arango6@udea.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.arango6@udea.edu.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Arango-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-arango-85043b216)
+![Ubicación](https://img.shields.io/badge/Medell%C3%ADn-Colombia-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Inglés](https://img.shields.io/badge/Ingl%C3%A9s-B2-555?style=for-the-badge)
+
+</div>
+
+* * *
+
+## 👋 Sobre mí
+
+Estudiante de **7.º semestre de Ingeniería de Sistemas** en la **Universidad de Antioquia**. Me muevo entre el backend (Java/Spring Boot), la automatización (Python, bots) y las aplicaciones web (Next.js), y me interesan las tecnologías aplicadas a la educación.
+
+- 🔭 **Ahora:** proyecto integrador con Unibán (logística de cosecha de plátano) y backend de Bookly en equipo.
+- 🌱 **Aprendiendo:** CI/CD, pruebas automáticas, seguridad en pipelines y agentes con la API de Claude.
+- 🎯 **Busco:** oportunidades de práctica, monitoría o apoyo técnico, en especial en desarrollo y educación virtual.
+- 💬 **Pregúntame sobre:** Spring Boot, bots en Python, simulación de sistemas operativos en C y modelos de ML.
 
 * * *
 
