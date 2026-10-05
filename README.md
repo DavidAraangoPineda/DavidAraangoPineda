@@ -1,33 +1,64 @@
-# Hola, soy David Arango Pineda 👋
+# David Arango Pineda — Ingeniería de Sistemas | Backend & Automatización | Educación Virtual 🚀
 
-Estudiante de Ingeniería de Sistemas (7.º semestre) en la **Universidad de Antioquia**, Medellín.
-Me interesan el desarrollo backend, la automatización, las bases de datos y las tecnologías aplicadas a la educación.
-Inglés B2.
+> Construyendo software que se entiende, se prueba y se despliega. Código limpio, documentación clara y entregas que funcionan.
 
-📫 david.arango6@udea.edu.co · [LinkedIn](https://linkedin.com/in/david-arango-85043b216)
+Estudiante de **7.º semestre de Ingeniería de Sistemas** en la **Universidad de Antioquia** (Medellín, Colombia 🇨🇴). Me muevo entre el backend (Java/Spring Boot), la automatización (Python, bots) y las aplicaciones web (Next.js), y me interesan las tecnologías aplicadas a la educación. Inglés B2.
 
-## Stack
+[![Gmail](https://img.shields.io/badge/Email-david.arango6@udea.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.arango6@udea.edu.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Arango-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-arango-85043b216)
 
-![Java](https://img.shields.io/badge/Java-Spring_Boot-007396?logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Next.js-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+* * *
 
-## Proyectos destacados
+## 🔥 Continuidad y actividad
 
-| Proyecto | Qué hace | Tecnologías |
+[![Total Stars](https://img.shields.io/github/stars/DavidAraangoPineda?style=for-the-badge&color=FFD700&logo=github&logoColor=white)](https://github.com/DavidAraangoPineda?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/DavidAraangoPineda?style=for-the-badge&color=0A66C2&logo=github&logoColor=white)](https://github.com/DavidAraangoPineda?tab=followers)
+[![Repos](https://img.shields.io/badge/Repos_p%C3%BAblicos-7-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidAraangoPineda?tab=repositories)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DavidAraangoPineda&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=DavidAraangoPineda&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/DavidAraangoPineda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAraangoPineda&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/DavidAraangoPineda)
+
+* * *
+
+## 🚧 Proyectos activos
+
+| Proyecto | Stack | Estado | Propósito |
+|---|---|---|---|
+| [Bookly Backend](https://github.com/Code-Factory-Bookly/backendcf) | `Java` `Spring Boot` `PostgreSQL` `Docker` `JWT` | 🟠 Desarrollo | Plataforma de reservas de servicios (CodeF@ctory, trabajo en equipo): API REST versionada, login seguro con BCrypt y bloqueo tras 5 intentos fallidos, CI en GitHub Actions |
+| [CodeBack](https://github.com/Uniban-Int1/CodeBack) | `Python` `Docker` `Alembic` | 🟠 Desarrollo | Planeación semanal de recolección y transporte de plátano e insumos de empaque para pequeños productores de Unibán (Proyecto Integrador I) |
+| [Comfortcool](https://github.com/DavidAraangoPineda/COMFORTCOOL) | `Next.js` `TypeScript` `Prisma` | 🟢 En uso | Dashboard de facturación, cartera e IVA conciliado con la DIAN |
+| [Comfortcool Docs Bot](https://github.com/DavidAraangoPineda/comfortcool-docs-bot) | `Python` `Claude API` `Telegram` `Google Drive` | 🟢 En uso | Bot que busca y archiva documentos, avisa vencimientos y gestiona cuentas de cobro |
+
+## ✅ Proyectos completados
+
+| Proyecto | Stack | Estado | Propósito |
+|---|---|---|---|
+| [lab2p2026](https://github.com/DavidAraangoPineda/lab2p2026) | `Java` `Spring Boot` `GitHub Actions` `SonarCloud` `Docker` | 🟢 Completo | Pipeline CI/CD: build, calidad con SonarCloud, imagen Docker y despliegue en Render |
+| [Lab_mem_virtual](https://github.com/DavidAraangoPineda/Lab_mem_virtual) | `C` `Make` | 🟢 Completo | Simulador de memoria virtual con tabla de páginas de 2 niveles y reemplazo FIFO, LRU y CLOCK |
+| [ProyectoModelos2](https://github.com/DavidAraangoPineda/ProyectoModelos2) | `Python` `scikit-learn` `Jupyter` | 🟢 Completo | Comparación de 7 modelos de ML para aprobación de créditos (CV estratificada, PCA, UMAP) |
+| [Optimizacion](https://github.com/DavidAraangoPineda/Optimizacion) | `JavaScript` `HTML` `CSS` | 🟢 Completo | Calculadora web interactiva de 7 métodos numéricos, sin backend |
+
+* * *
+
+## 🛠️ Tecnologías que uso
+
+| Backend y datos | Frontend | Cloud, DevOps y herramientas |
 |---|---|---|
-| [lab2p2026](https://github.com/DavidAraangoPineda/lab2p2026) | API Spring Boot con pipeline CI/CD: build, calidad con SonarCloud, imagen Docker y despliegue en Render | Java, Spring Boot, GitHub Actions, SonarCloud, Docker |
-| [Lab_mem_virtual](https://github.com/DavidAraangoPineda/Lab_mem_virtual) | Simulador de memoria virtual con tabla de páginas de dos niveles y reemplazo FIFO, LRU y CLOCK | C, Make |
-| [ProyectoModelos2](https://github.com/DavidAraangoPineda/ProyectoModelos2) | Comparación de 7 modelos de ML para aprobación de créditos (CV estratificada, PCA, UMAP) | Python, scikit-learn, Jupyter |
-| [Bookly Backend](https://github.com/Code-Factory-Bookly/backendcf) | Plataforma de reservas de servicios, trabajo en equipo (CodeF@ctory): API REST versionada, registro, login con JWT, BCrypt, bloqueo tras 5 intentos fallidos, CI | Java, Spring Boot, PostgreSQL, Docker, GitHub Actions |
-| _(agregar)_ Comfortcool Docs Bot | Bot de Telegram con Claude que busca y archiva documentos, avisa vencimientos y gestiona cuentas de cobro | Python, Claude API, Google Drive |
-| _(agregar)_ Comfortcool | Dashboard de facturación e IVA conciliado con la DIAN | Next.js, TypeScript, Prisma |
+| [![](https://skillicons.dev/icons?i=java,spring,python,c,postgres,mysql,prisma)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=docker,githubactions,github,linux,git,arduino)](https://skillicons.dev) |
 
-## Ahora mismo
+* * *
 
-- Proyecto integrador con Unibán: planeación logística de cosecha de plátano.
-- Practicando CI/CD, pruebas automáticas y buenas prácticas de seguridad en pipelines.
+## 💭 Perfil
+
+> Me gusta que el código se pueda mantener: pruebas, CI/CD y decisiones técnicas documentadas.
+
+- **Backend:** APIs REST con Spring Boot, autenticación con JWT/BCrypt, PostgreSQL y contenedores con Docker.
+- **Automatización:** bots y scripts en Python que resuelven procesos reales de una empresa (documentos, cobros, vencimientos).
+- **Datos y ML:** Pandas, NumPy y XGBoost; modelos comparados con validación cruzada.
+- **Sistemas:** simulación de memoria virtual y planificación de procesos en C.
+- **Calidad:** GitHub Actions, SonarCloud y acciones fijadas por SHA.
+- **Soporte y formación:** experiencia atendiendo usuarios en inglés y español, y capacidad para capacitar en herramientas digitales.
+
+📫 ¿Hablamos? **david.arango6@udea.edu.co**
