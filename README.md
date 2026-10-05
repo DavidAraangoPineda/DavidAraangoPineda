@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0A66C2,100:2ea44f&section=header&text=David%20Arango%20Pineda&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Ingenier%C3%ADa%20de%20Sistemas%20%7C%20Backend%20%26%20Automatizaci%C3%B3n%20%7C%20Educaci%C3%B3n%20Virtual&descSize=15&descAlignY=62" alt="David Arango Pineda" />
+<h1>David Arango Pineda</h1>
+
+<h3>Ingeniería de Sistemas · Backend &amp; Automatización · Educación Virtual 🚀</h3>
 
 **Construyendo software que se entiende, se prueba y se despliega.**
 
