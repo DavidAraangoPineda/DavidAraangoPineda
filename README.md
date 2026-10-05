@@ -2,7 +2,7 @@
 
 <h1>David Arango Pineda</h1>
 
-<h3>Ingeniería de Sistemas · Backend &amp; Automatización · Educación Virtual 🚀</h3>
+<h3>Ingeniería de Sistemas · Backend &amp; Automatización 🚀</h3>
 
 **Construyendo software que se entiende, se prueba y se despliega.**
 
@@ -17,11 +17,11 @@
 
 ## 👋 Sobre mí
 
-Estudiante de **7.º semestre de Ingeniería de Sistemas** en la **Universidad de Antioquia**. Me muevo entre el backend (Java/Spring Boot), la automatización (Python, bots) y las aplicaciones web (Next.js), y me interesan las tecnologías aplicadas a la educación.
+Estudiante de **7.º semestre de Ingeniería de Sistemas** en la **Universidad de Antioquia**. Me muevo entre el backend (Java/Spring Boot), la automatización (Python, bots) y las aplicaciones web (Next.js).
 
 - 🔭 **Ahora:** proyecto integrador con Unibán (logística de cosecha de plátano) y backend de Bookly en equipo.
 - 🌱 **Aprendiendo:** CI/CD, pruebas automáticas, seguridad en pipelines y agentes con la API de Claude.
-- 🎯 **Busco:** oportunidades de práctica, monitoría o apoyo técnico, en especial en desarrollo y educación virtual.
+- 🎯 **Busco:** oportunidades de práctica, monitoría o apoyo técnico.
 - 💬 **Pregúntame sobre:** Spring Boot, bots en Python, simulación de sistemas operativos en C y modelos de ML.
 
 * * *
